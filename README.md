@@ -1,10 +1,11 @@
 # Sleeping Time-Series Analysis
+![sleeping_time](Images/sleeping_time.jpeg)
 
 ## Overview
 
 ## Business Problem
 
-Sleeping 
+
 
 ## Data Understanding and Analysis
 
@@ -16,7 +17,7 @@ Sleeping
 
 ## Outside Research
 
-- []
+
 
 ## Contact Information
 
